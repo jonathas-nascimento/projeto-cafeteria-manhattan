@@ -7,6 +7,8 @@
 .topo{
     width: 100%;
     background-color: #604829;
+    position: fixed;
+    z-index: 1;
 }
 
 .topo .logo{
